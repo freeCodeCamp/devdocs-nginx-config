@@ -1,3 +1,3 @@
-# chat-nginx-config
+# devdocs-nginx-config
 
-Config for our NGINX instances that serve our Chat platform.
+Config for our NGINX instance that serves Devdocs
