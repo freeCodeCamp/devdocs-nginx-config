@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ssl certs
+
+ssl/devdocs.in.crt
+ssl/devdocs.in.key
+ssl/devdocs.io.crt
+ssl/devdocs.io.key
+ssl/dhparam.pem
+
+
